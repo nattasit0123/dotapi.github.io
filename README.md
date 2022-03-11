@@ -3,11 +3,12 @@
 
 ### What I'm currently learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951806802301947924/html.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951807750386622534/php.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951807751057731684/css-3.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951807750860595270/js.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951807750655082536/c-sharp.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.discordapp.net/attachments/951806775756197959/951807750168539176/api.png">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <div>
